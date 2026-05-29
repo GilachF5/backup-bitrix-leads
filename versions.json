@@ -1,0 +1,129 @@
+﻿[
+    {
+        "id":  "d4e693pcnutt4e29g74u",
+        "function_id":  "d4e04nvfaa54m4lgq5ai",
+        "created_at":  "2025-12-19T09:05:14.094Z",
+        "runtime":  "nodejs22",
+        "entrypoint":  "index.handler",
+        "resources":  {
+                          "memory":  "3221225472"
+                      },
+        "execution_timeout":  "600s",
+        "image_size":  "2805760",
+        "status":  "ACTIVE",
+        "tags":  [
+                     "$latest"
+                 ],
+        "environment":  {
+                            "BITRIX_WEBHOOK":  "\u003credacted\u003e",
+                            "CONFIG_NAME":  "\u003credacted\u003e",
+                            "ca_pem":  "\u003credacted\u003e",
+                            "dateFrom":  "\u003credacted\u003e",
+                            "dateTo":  "\u003credacted\u003e",
+                            "mysql_db":  "\u003credacted\u003e",
+                            "mysql_host":  "\u003credacted\u003e",
+                            "mysql_password":  "\u003credacted\u003e",
+                            "mysql_user":  "\u003credacted\u003e"
+                        },
+        "log_options":  {
+                            "folder_id":  "b1gnufc37haf3rrd9ion"
+                        },
+        "concurrency":  "1",
+        "metadata_options":  {
+
+                             }
+    },
+    {
+        "id":  "d4ev4hakff2ntecq8cif",
+        "function_id":  "d4e04nvfaa54m4lgq5ai",
+        "created_at":  "2025-12-19T07:14:58.129Z",
+        "runtime":  "nodejs22",
+        "entrypoint":  "index.handler",
+        "resources":  {
+                          "memory":  "3221225472"
+                      },
+        "execution_timeout":  "600s",
+        "image_size":  "2805760",
+        "status":  "OBSOLETE",
+        "environment":  {
+                            "BITRIX_WEBHOOK":  "\u003credacted\u003e",
+                            "CONFIG_NAME":  "\u003credacted\u003e",
+                            "ca_pem":  "\u003credacted\u003e",
+                            "dateFrom":  "\u003credacted\u003e",
+                            "dateTo":  "\u003credacted\u003e",
+                            "mysql_db":  "\u003credacted\u003e",
+                            "mysql_host":  "\u003credacted\u003e",
+                            "mysql_password":  "\u003credacted\u003e",
+                            "mysql_user":  "\u003credacted\u003e"
+                        },
+        "log_options":  {
+                            "folder_id":  "b1gnufc37haf3rrd9ion"
+                        },
+        "concurrency":  "1",
+        "metadata_options":  {
+
+                             }
+    },
+    {
+        "id":  "d4egtlgmdvc5hpc6o9mc",
+        "function_id":  "d4e04nvfaa54m4lgq5ai",
+        "created_at":  "2025-12-19T07:02:45.769Z",
+        "runtime":  "nodejs22",
+        "entrypoint":  "index.handler",
+        "resources":  {
+                          "memory":  "3221225472"
+                      },
+        "execution_timeout":  "600s",
+        "image_size":  "2805760",
+        "status":  "OBSOLETE",
+        "environment":  {
+                            "BITRIX_WEBHOOK":  "\u003credacted\u003e",
+                            "CONFIG_NAME":  "\u003credacted\u003e",
+                            "ca_pem":  "\u003credacted\u003e",
+                            "dateFrom":  "\u003credacted\u003e",
+                            "dateTo":  "\u003credacted\u003e",
+                            "mysql_db":  "\u003credacted\u003e",
+                            "mysql_host":  "\u003credacted\u003e",
+                            "mysql_password":  "\u003credacted\u003e",
+                            "mysql_user":  "\u003credacted\u003e"
+                        },
+        "log_options":  {
+                            "folder_id":  "b1gnufc37haf3rrd9ion"
+                        },
+        "concurrency":  "1",
+        "metadata_options":  {
+
+                             }
+    },
+    {
+        "id":  "d4enpjt600e9sct53joe",
+        "function_id":  "d4e04nvfaa54m4lgq5ai",
+        "created_at":  "2025-12-16T14:55:40.167Z",
+        "runtime":  "nodejs22",
+        "entrypoint":  "index.handler",
+        "resources":  {
+                          "memory":  "3221225472"
+                      },
+        "execution_timeout":  "600s",
+        "image_size":  "2809856",
+        "status":  "OBSOLETE",
+        "environment":  {
+                            "BITRIX_WEBHOOK":  "\u003credacted\u003e",
+                            "CONFIG_NAME":  "\u003credacted\u003e",
+                            "ca_pem":  "\u003credacted\u003e",
+                            "dateFrom":  "\u003credacted\u003e",
+                            "dateTo":  "\u003credacted\u003e",
+                            "mysql_db":  "\u003credacted\u003e",
+                            "mysql_host":  "\u003credacted\u003e",
+                            "mysql_password":  "\u003credacted\u003e",
+                            "mysql_user":  "\u003credacted\u003e"
+                        },
+        "log_options":  {
+                            "folder_id":  "b1gnufc37haf3rrd9ion"
+                        },
+        "concurrency":  "1",
+        "metadata_options":  {
+
+                             }
+    }
+]
