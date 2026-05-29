@@ -1,0 +1,11 @@
+{
+      "name": "new_lead",
+      "description": "Новые лиды",
+      "mysql_table": "date_create",
+      "date_filter_field": "DATE_CREATE",
+      "date_from_offset": -7,
+      "date_to_offset": 0,
+      "mapping_file": "mappings/new_lead.txt",
+      "primary_key": ["id"],
+      "additional_filters": {}
+    }

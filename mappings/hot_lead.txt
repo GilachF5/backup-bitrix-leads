@@ -1,0 +1,8 @@
+ID;id
+ASSIGNED_BY_ID;assigned_by_id
+UF_CRM_1655927709;date_assigned
+DATE_CREATE;date_create
+PHONE;phone
+UF_CRM_1650896347;project
+SOURCE_ID;source_id
+

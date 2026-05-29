@@ -1,0 +1,9 @@
+ID;id
+CREATED_BY_ID;created_by_id
+DATE_CREATE;date_create
+PHONE;phone
+UF_CRM_1650896347;project
+SOURCE_ID;source_id
+UF_CRM_1650794493;domain
+UF_CRM_1697036481;bis_stat
+UF_CRM_1721386572610;creator_tm
